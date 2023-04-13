@@ -4,8 +4,8 @@ Coletânea de todos os projetos já elaborados voltados para a área de Data Sci
 
 ### Case de expansão de uma rede de laboratórios
 
-Suporte para expansão de uma rede de laboratórios nos EUA. Desafio: sugerir 3 zip codes para instalar novos laboratórios tendo utilizando as bases de dados ofertadas como insumo.
-Ferramentas: Python e bibliotecas (pandas, numpy e matplot)
+Suporte para expansão de uma rede de laboratórios nos EUA. Desafio: sugerir 3 zip codes para instalar novos laboratórios tendo utilizando as bases de dados ofertadas como insumo. //
+Ferramentas: Python e bibliotecas (pandas, numpy e matplot) //
 Link: https://github.com/RaphAkira/Portifolio/blob/main/Case%20Expans%C3%A3o%20de%20rede%20de%20laborat%C3%B3rios.ipynb
 
 ### Análise de dados dos salários na área de Data Science
